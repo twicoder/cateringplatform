@@ -1,0 +1,16 @@
+.rightSideBar {
+  position: fixed;
+  top: 55px;
+  bottom: 0px;
+  background-color: #3f4852;
+  left: 0;
+}
+
+.rightSideBar li {
+  padding-left: 10px;
+  height: 40px;
+  line-height: 40px;
+  text-align: left;
+  color: #fff;
+  border-bottom: 1px solid #222;
+}
